@@ -7,9 +7,10 @@ A dança entre escuridão e a luz sempre permanecerá - as estrelas e a lua semp
 
 <div align="center">
   <a href="https://github.com/DvlpRafael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DvlpRafael&show_icons=true&theme=Darkmatter&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvlpRafael&layout=compact&langs_count=7&theme=Darkmatter"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DvlpRafael&show_icons=true&theme=Brogrammer&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DvlpRafael&layout=compact&langs_count=7&theme=Brogrammer"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
