@@ -2,8 +2,8 @@ A dança entre escuridão e a luz sempre permanecerá - as estrelas e a lua semp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DvlpRafael&label=Profile%20views&color=0e75b6&style=flat" alt="DvlpRafael" /> </p>
 
-- 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning Java Script and PHP
+- 🔭 I’m currently working on Front-End and Back-End
+- 🌱 I’m currently learning Html, Css,Java Script, java, and PHP
 - 📫 How to reach me: dvlprafael@gmail.com
 - 😄 Pronouns: ele/dele
 
